@@ -1,0 +1,25 @@
+{
+  "NavBar": {
+    "home": "home",
+    "about": "about us",
+    "contacts": "contacts",
+    "priceList": "Pricing",
+    "services": "Services"
+  },
+  "HomePage": {
+    "title": "Phoenix Beauty",
+    "about": "About us"
+  },
+  "Contacts": {
+    "title": "Contacts",
+    "address": "address",
+    "phone": "phone",
+    "email": "email"
+  },
+  "Pricelist": {
+    "title": "Pricing"
+  },
+  "Services": {
+    "title": "Services"
+  }
+}

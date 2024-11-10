@@ -1,0 +1,25 @@
+{
+  "NavBar": {
+    "home": "domů",
+    "about": "o nás",
+    "contacts": "kontakty",
+    "priceList": "Ceník",
+    "services": "Služby"
+  },
+  "HomePage": {
+    "title": "Phoenix Beauty",
+    "about": "Na stranku About haha"
+  },
+  "Contacts": {
+    "title": "Kontakty",
+    "address": "adresa",
+    "phone": "telefon",
+    "email": "email"
+  },
+  "Pricelist": {
+    "title": "Ceník"
+  },
+  "Services": {
+    "title": "Služby"
+  }
+}

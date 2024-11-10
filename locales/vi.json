@@ -1,0 +1,25 @@
+{
+  "NavBar": {
+    "home": "trang chủ",
+    "about": "về chúng tôi",
+    "contacts": "liên hệ",
+    "priceList": "Ceník",
+    "services": "Služby"
+  },
+  "HomePage": {
+    "title": "Xin chào thế giới",
+    "about": "Đến trang Về chúng tôi haha"
+  },
+  "Contacts": {
+    "title": "Liên hệ",
+    "address": "adresa",
+    "phone": "telefon",
+    "email": "email"
+  },
+  "Pricelist": {
+    "title": "Bảng giá"
+  },
+  "Services": {
+    "title": "Dịch vụ"
+  }
+}
